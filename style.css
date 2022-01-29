@@ -10,10 +10,17 @@ h1{
 }
 
 .maindiv {
-    margin: auto;
-    background-color: white;
-    color: black;
-    width: 300px;
-    padding: 20px;
-    border-radius: 25px
+    background-color:white;
+    color:black;
+    width:500px;
+    padding:20px;
+    border-radius:25px;
+    margin:auto
+}
+
+.subdiv {
+    color:black;
+    width:300px;
+    padding:20px;
+    margin:auto
 }
